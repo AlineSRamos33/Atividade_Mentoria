@@ -1,8 +1,8 @@
 #include<stdio.h> // Biblioteca para usar printf
-#include<stdlib.h>
+#include<stdlib.h> // Biblioteca 
 
-int comprimento(int);
-int massa(int);
+int comprimento(int); // Calcula o comprimento
+int massa(int); // Calcula a massa
 int volume(int);
 int temperatura(int);
 int velocidade(int);
