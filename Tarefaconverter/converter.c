@@ -3,7 +3,7 @@
 
 int comprimento(int); // Calcula o comprimento
 int massa(int); // Calcula a massa
-int volume(int);
+int volume(int); // Calcula o volume
 int temperatura(int);
 int velocidade(int);
 int potencia(int);
