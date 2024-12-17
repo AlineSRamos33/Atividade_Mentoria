@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> // Biblioteca para usar printf
 #include<stdlib.h>
 
 int comprimento(int);
